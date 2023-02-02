@@ -1,5 +1,5 @@
 # OpenCV_Fotograf_Cekme
-Bu kod ile bilgisayarınızın kamerasını kullnarak fotoğraf çekebilirsiniz. 
+Bu kod ile bilgisayarınızın kamerasını kullanarak fotoğraf çekebilirsiniz. 
 
 Kodu çalıştırmak bulunduğunuz dizinde  "dataset" isimli bir dizin açmalısınız.
 
